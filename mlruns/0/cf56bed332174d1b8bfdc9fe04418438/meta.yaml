@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/cf56bed332174d1b8bfdc9fe04418438/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf56bed332174d1b8bfdc9fe04418438
+run_name: placid-dove-44
+run_uuid: cf56bed332174d1b8bfdc9fe04418438
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683669860766
+status: 1
+tags: []
+user_id: A.Prikhodchenko

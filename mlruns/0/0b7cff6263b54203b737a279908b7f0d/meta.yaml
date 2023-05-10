@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/0b7cff6263b54203b737a279908b7f0d/artifacts
+end_time: 1683666466647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b7cff6263b54203b737a279908b7f0d
+run_name: serious-crab-932
+run_uuid: 0b7cff6263b54203b737a279908b7f0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683666464632
+status: 3
+tags: []
+user_id: A.Prikhodchenko

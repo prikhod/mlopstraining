@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/831ee9a98aff4a0397549ebc5af1d59d/artifacts
+end_time: 1683758856779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 831ee9a98aff4a0397549ebc5af1d59d
+run_name: flawless-hound-854
+run_uuid: 831ee9a98aff4a0397549ebc5af1d59d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683758836725
+status: 4
+tags: []
+user_id: A.Prikhodchenko

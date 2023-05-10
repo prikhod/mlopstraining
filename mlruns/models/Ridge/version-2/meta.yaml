@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1683761754837
+current_stage: None
+description: null
+last_updated_timestamp: 1683761754837
+name: Ridge
+run_id: d3b9d57c3bf3481d9ea49471b316b407
+run_link: null
+source: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/d3b9d57c3bf3481d9ea49471b316b407/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 2

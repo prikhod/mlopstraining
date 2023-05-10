@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/b861d5ad997b4ba387e3a8af653103ad/artifacts
+end_time: 1683669030706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b861d5ad997b4ba387e3a8af653103ad
+run_name: capricious-quail-28
+run_uuid: b861d5ad997b4ba387e3a8af653103ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683669028917
+status: 4
+tags: []
+user_id: A.Prikhodchenko

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/a8a8baa796794ef094a73c2fb5ed9d43/artifacts
+end_time: 1683670689668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8a8baa796794ef094a73c2fb5ed9d43
+run_name: bouncy-kit-711
+run_uuid: a8a8baa796794ef094a73c2fb5ed9d43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683670687826
+status: 4
+tags: []
+user_id: A.Prikhodchenko

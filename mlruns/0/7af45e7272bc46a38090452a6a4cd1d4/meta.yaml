@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/7af45e7272bc46a38090452a6a4cd1d4/artifacts
+end_time: 1683668030019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7af45e7272bc46a38090452a6a4cd1d4
+run_name: amusing-eel-198
+run_uuid: 7af45e7272bc46a38090452a6a4cd1d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683668025520
+status: 3
+tags: []
+user_id: A.Prikhodchenko

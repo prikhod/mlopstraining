@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/03c25c1b9cf547b99da9d7b03154cc92/artifacts
+end_time: 1683758498953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03c25c1b9cf547b99da9d7b03154cc92
+run_name: bustling-duck-439
+run_uuid: 03c25c1b9cf547b99da9d7b03154cc92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683758494077
+status: 3
+tags: []
+user_id: A.Prikhodchenko

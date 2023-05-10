@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/212645222632931005/6f129e0d12bb42d7a15c588d912b4ecd/artifacts
+end_time: 1683758765816
+entry_point_name: ''
+experiment_id: '212645222632931005'
+lifecycle_stage: active
+run_id: 6f129e0d12bb42d7a15c588d912b4ecd
+run_name: '9'
+run_uuid: 6f129e0d12bb42d7a15c588d912b4ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683758765802
+status: 3
+tags: []
+user_id: A.Prikhodchenko

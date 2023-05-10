@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/9dd4d967095746d1a8321309d1569c9a/artifacts
+end_time: 1683666467449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9dd4d967095746d1a8321309d1569c9a
+run_name: placid-deer-256
+run_uuid: 9dd4d967095746d1a8321309d1569c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683666467441
+status: 3
+tags: []
+user_id: A.Prikhodchenko

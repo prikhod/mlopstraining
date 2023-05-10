@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/b463e7465e8f48808bec36c22efbb116/artifacts
+end_time: 1683668819736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b463e7465e8f48808bec36c22efbb116
+run_name: carefree-gnat-654
+run_uuid: b463e7465e8f48808bec36c22efbb116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683668818040
+status: 4
+tags: []
+user_id: A.Prikhodchenko

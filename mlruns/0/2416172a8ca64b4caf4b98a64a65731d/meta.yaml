@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/2416172a8ca64b4caf4b98a64a65731d/artifacts
+end_time: 1683663842620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2416172a8ca64b4caf4b98a64a65731d
+run_name: intrigued-rat-725
+run_uuid: 2416172a8ca64b4caf4b98a64a65731d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683663840527
+status: 3
+tags: []
+user_id: A.Prikhodchenko

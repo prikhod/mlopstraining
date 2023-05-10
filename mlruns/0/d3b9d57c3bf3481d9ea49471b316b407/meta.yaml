@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/d3b9d57c3bf3481d9ea49471b316b407/artifacts
+end_time: 1683761754936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3b9d57c3bf3481d9ea49471b316b407
+run_name: caring-mule-476
+run_uuid: d3b9d57c3bf3481d9ea49471b316b407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683761748526
+status: 3
+tags: []
+user_id: A.Prikhodchenko

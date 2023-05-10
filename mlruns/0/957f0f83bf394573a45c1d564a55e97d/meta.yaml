@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/957f0f83bf394573a45c1d564a55e97d/artifacts
+end_time: 1683669006508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 957f0f83bf394573a45c1d564a55e97d
+run_name: fun-robin-239
+run_uuid: 957f0f83bf394573a45c1d564a55e97d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683669004843
+status: 4
+tags: []
+user_id: A.Prikhodchenko

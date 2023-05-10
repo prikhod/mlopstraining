@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/4b203b480e354d55a8dd3b14ecf5ed03/artifacts
+end_time: 1683668995168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b203b480e354d55a8dd3b14ecf5ed03
+run_name: sassy-lamb-122
+run_uuid: 4b203b480e354d55a8dd3b14ecf5ed03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683668990681
+status: 3
+tags: []
+user_id: A.Prikhodchenko

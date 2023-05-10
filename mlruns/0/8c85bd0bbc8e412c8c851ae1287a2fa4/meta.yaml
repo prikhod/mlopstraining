@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/8c85bd0bbc8e412c8c851ae1287a2fa4/artifacts
+end_time: 1683668006740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c85bd0bbc8e412c8c851ae1287a2fa4
+run_name: bouncy-ox-980
+run_uuid: 8c85bd0bbc8e412c8c851ae1287a2fa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683668002146
+status: 3
+tags: []
+user_id: A.Prikhodchenko

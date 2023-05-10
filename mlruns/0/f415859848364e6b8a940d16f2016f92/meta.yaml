@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/f415859848364e6b8a940d16f2016f92/artifacts
+end_time: 1683668063820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f415859848364e6b8a940d16f2016f92
+run_name: melodic-lamb-810
+run_uuid: f415859848364e6b8a940d16f2016f92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683668059131
+status: 3
+tags: []
+user_id: A.Prikhodchenko

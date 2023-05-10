@@ -1,0 +1,3 @@
+{
+  "Lasso_score_X_test": "Lasso.score(X=X_test, y=y_test)"
+}

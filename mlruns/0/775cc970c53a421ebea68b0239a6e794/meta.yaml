@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/775cc970c53a421ebea68b0239a6e794/artifacts
+end_time: 1683669091804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 775cc970c53a421ebea68b0239a6e794
+run_name: wise-lark-874
+run_uuid: 775cc970c53a421ebea68b0239a6e794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683669090071
+status: 4
+tags: []
+user_id: A.Prikhodchenko

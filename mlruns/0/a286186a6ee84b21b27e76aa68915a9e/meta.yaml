@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/a286186a6ee84b21b27e76aa68915a9e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a286186a6ee84b21b27e76aa68915a9e
+run_name: zealous-sheep-448
+run_uuid: a286186a6ee84b21b27e76aa68915a9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683669127343
+status: 1
+tags: []
+user_id: A.Prikhodchenko

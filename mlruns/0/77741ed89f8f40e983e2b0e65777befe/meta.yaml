@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/77741ed89f8f40e983e2b0e65777befe/artifacts
+end_time: 1683666783248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77741ed89f8f40e983e2b0e65777befe
+run_name: bald-trout-839
+run_uuid: 77741ed89f8f40e983e2b0e65777befe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683666778665
+status: 3
+tags: []
+user_id: A.Prikhodchenko

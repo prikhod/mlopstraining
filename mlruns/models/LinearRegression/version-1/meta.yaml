@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1683758867884
+current_stage: None
+description: null
+last_updated_timestamp: 1683758867884
+name: LinearRegression
+run_id: 89dcaf2b1fd34328980bf44029f707b8
+run_link: null
+source: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/89dcaf2b1fd34328980bf44029f707b8/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 1

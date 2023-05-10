@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/1501c84f2f1e48788196d33a62f946ec/artifacts
+end_time: 1683667945064
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1501c84f2f1e48788196d33a62f946ec
+run_name: unleashed-stoat-296
+run_uuid: 1501c84f2f1e48788196d33a62f946ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683667940569
+status: 3
+tags: []
+user_id: A.Prikhodchenko

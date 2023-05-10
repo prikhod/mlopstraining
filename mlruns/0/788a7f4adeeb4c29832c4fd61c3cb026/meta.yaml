@@ -1,0 +1,15 @@
+artifact_uri: file:///home/A.Prikhodchenko/PycharmProjects/mlopstraining/mlruns/0/788a7f4adeeb4c29832c4fd61c3cb026/artifacts
+end_time: 1683762262298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 788a7f4adeeb4c29832c4fd61c3cb026
+run_name: efficient-shrew-35
+run_uuid: 788a7f4adeeb4c29832c4fd61c3cb026
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683762258383
+status: 4
+tags: []
+user_id: A.Prikhodchenko
