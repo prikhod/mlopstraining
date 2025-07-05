@@ -1,4 +1,4 @@
-ccccccccxzexport RUN_ID=0b7cff6263b54203b737a279908b7f0d
+export RUN_ID=0b7cff6263b54203b737a279908b7f0d
 
 python3 src/features/serve.py
 
